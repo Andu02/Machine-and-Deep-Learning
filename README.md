@@ -1,1 +1,1 @@
-# Some of my personal project. 
+# with the help of the YouTube Channel "freeCodeCamp.org", course: PyTorch for Deep Learning & Machine Learning – Full Course (https://www.youtube.com/watch?v=V_xro1bcAuA&ab_channel=freeCodeCamp.org)
